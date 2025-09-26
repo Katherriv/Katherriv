@@ -1,4 +1,4 @@
-## # Hi there 👋, I'm Katie
+## Hello, I am Katherine!
 
 🎓 Aspiring **Data Scientist** | 📊 Background in **Education and Data Analysis** | 💻 Exploring **Python, SQL and Machine Learning**
 
