@@ -32,23 +32,10 @@ Created interactive dashboards with filters and stakeholder-focused visuals to c
 ## Technical Skills
 
 ### Languages & Tools
-- Python
-- SQL
-- Tableau
-- Excel
-- PostgreSQL
-- MongoDB
-- Power BI
-- Git & GitHub
-
-### Python Libraries
-- pandas
-- NumPy
-- Matplotlib
-- seaborn
-- scikit-learn
-- SciPy
-- statsmodels
+- Databases: PostgreSQL, SQLite, MongoDB
+- Languages and Analysis: SQL, Python, pandas, NumPy, scikit-learn, statsmodels
+- Visualization: Tableau, Matplotlib, Seaborn, altair
+- Deployment and Workflow: FastAPI, Docker, pytest, MLflow, Git, DVC, GitLab
 
 
 ---
