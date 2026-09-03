@@ -13,13 +13,9 @@ I am a data analytics professional from Las Vegas with knowledge and experience 
 
 ## Featured Projects
 
-### Student Performance Analysis
-**Tools:** Python, pandas, NumPy, Matplotlib  
-Analyzed structured data to identify trends in student performance, clean and transform data, generate descriptive statistics, and create visualizations to support data-informed decision-making.
+### Financial Risk Assessment Using a Random Forest Classifier
+**Tools:** Python, scikit-learn, FastAPI, Unit testing
 
-### Housing Data Modeling
-**Tools:** Python, scikit-learn, statsmodels  
-Built and evaluated regression and classification models, applied feature selection methods, and explored PCA to better understand drivers of housing-related outcomes.
 
 ### SQL Database and Query Optimization
 **Tools:** PostgreSQL, SQL  
