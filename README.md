@@ -14,16 +14,25 @@ I am a data analytics professional from Las Vegas with knowledge and experience 
 ## Featured Projects
 
 ### Financial Risk Assessment Using a Random Forest Classifier
-**Tools:** Python, scikit-learn, FastAPI, Unit testing
+Python, scikit-learn, FastAPI, pytest, Docker
+[View Project]
 
 
 ### SQL Database and Query Optimization
-**Tools:** PostgreSQL, SQL  
-Designed structured databases, wrote analytical queries using joins and aggregations, and improved performance through indexing and query optimization.
+PostgreSQL, SQL, Database Design, Query Optimization
+[View Project]
 
 ### Tableau Dashboard Project
-**Tools:** Tableau  
-Created interactive dashboards with filters and stakeholder-focused visuals to communicate trends and support better decision-making.
+Tableau, Data Visualization, KPI Reporting  
+[View Project]
+
+### Logistic Regression 
+[View Project]
+
+### Sentiment Analysis on Amazon Reviews
+
+### Paycheck Planner Application
+Python, Streamlit, SQLite, Altair, 
 
 ## Technical Skills
 
