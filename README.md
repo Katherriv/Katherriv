@@ -1,6 +1,6 @@
 # Hi, I'm Katherine Rivera!
 
-I am a data analytics professional from Las Vegas with knowledge and experience transforming data into clear reports and actionable insights. I have recently graduated from Western Governors University with a Master of Science degree in Data Analytics with a concentration in Data Science. My knowledge and project work entails SQL, Python, statistical analysis, machine learning, visualization techniques and effective communication with team members and stakeholders.
+I am a data analytics professional from Las Vegas with knowledge and experience transforming data into clear reports and actionable insights. I hold a Master of Science degree in Data Analytics with a concentration in Data Science from Western Governors University. My knowledge, project work, and professional experience entails SQL, Python, statistical analysis, machine learning, visualization techniques and effective communication with team members and stakeholders.
 
 ## Areas of Focus
 - Data extraction and wrangling
@@ -15,7 +15,7 @@ I am a data analytics professional from Las Vegas with knowledge and experience 
 
 ### Financial Risk Assessment Using a Random Forest Classifier
 Python, scikit-learn, FastAPI, pytest, Docker
-[View Project]
+[View project](https://github.com/Katherriv/loan-default-risk-classification)
 
 
 ### SQL Database and Query Optimization
@@ -32,7 +32,8 @@ Tableau, Data Visualization, KPI Reporting
 ### Sentiment Analysis on Amazon Reviews
 
 ### Paycheck Planner Application
-Python, Streamlit, SQLite, Altair, 
+Python, Streamlit, SQLite, Altair
+https://github.com/Katherriv/payglow-paycheck-planner?utm_source=chatgpt.com
 
 ## Technical Skills
 
